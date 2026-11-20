@@ -12,7 +12,7 @@ A newspaper front page for the day, drawn with code. Every story was reported on
 
 - **Trump, Xi & Putin meet in Shenzhen** — first-ever three-way talks; Ukraine, Iran and nuclear arms on the table.
 - **Anthropic's $81.3bn record IPO** — the largest debut ever; shares start trading today on Nasdaq as ANT, priced at $83.
-- **UN court rules on Myanmar** — the world court delivers its Rohingya genocide judgment, seven years after The Gambia brought the case.
+- **UN court rules on Myanmar** — the world court finds Myanmar guilty of genocide against the Rohingya, 9–6, the first time a state has been held responsible for genocide.
 - **Kerch Bridge hit a third time** — an overnight strike targets the rail span; traffic halted again.
 - **Israel's Gaza raid past the line** — the first ground operation beyond the Yellow Line since the ceasefire.
 - Also: NASA confirms Voyager 1 is a light-day out, GTA VI launches to 99/100 reviews, and a Van Gogh sells for a record $190.4M.
